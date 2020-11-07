@@ -1,1 +1,3 @@
 # gobarber-mobile
+
+app gobarber
