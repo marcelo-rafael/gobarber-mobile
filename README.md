@@ -1,4 +1,4 @@
 # gobarber-mobile
 
 app gobarber
-atualizar readme
+atualizar readm
