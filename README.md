@@ -1,4 +1,4 @@
 # gobarber-mobile
 
 app gobarber
-atualizar 
+atualizar readme com todas as informações do projeto
